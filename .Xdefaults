@@ -1,0 +1,78 @@
+Xft.antialias:trueURxvt*geometry:        72x18
+
+URxvt.font: xft:JetBrains Mono Medium:size=11
+URxvt.boldFont: xft:DejaVu Sans Mono:size=11
+URxvt.scrollBar: false
+URxvt.perl-ext-common:resize-font
+URxvt.keysym.C-minus:resize-font:smaller
+URxvt.keysym.C-equal:resize-font:bigger
+URxvt.keysym.C-0:resize-font:reset
+
+!! mouse-bar disabled
+
+URxvt.scrollBar: false
+
+!! color fix
+
+URxvt.depth: 32
+
+urxvt*background: rgba:0000/0000/0200/c800
+
+URxvt.perl-ext-common: ...,font-size
+
+
+! special
+
+*.foreground:   #919191
+
+*.background:   #000000
+
+*.cursorColor:  #919191
+
+! black
+
+*.color0:       #303030
+
+*.color8:       #5e5e5e
+
+! red
+
+*.color1:       #cc6666
+
+*.color9:       #ff1a1a
+
+! green
+
+*.color2:       #4dff4d
+
+*.color10:      #33ff33
+
+! yellow
+
+*.color3:       #ffb366
+
+*.color11:      #ffcc33
+
+! blue
+
+*.color4:       #3399ff
+
+*.color12:      #66a3ff
+
+! magenta
+
+*.color5:       #ff4dff
+
+*.color13:      #ff66d9
+
+! cyan
+
+*.color6:       #80d4ff
+
+*.color14:      #00b3b3
+
+! white
+
+*.color7:       #c6c6c6
+
+*.color15:      #ffffff
