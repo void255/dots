@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=lbry
+Comment=lbrystartup script
+Exec=/tmp/.mount_LBRY_0Vr9xUN/lbry --hidden
+StartupNotify=false
+Terminal=false
