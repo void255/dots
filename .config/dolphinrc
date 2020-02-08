@@ -1,0 +1,41 @@
+[CompactMode]
+FontWeight=50
+PreviewSize=16
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+Version=200
+ViewPropsTimestamp=2019,11,19,21,20,47
+
+[IconsMode]
+FontWeight=50
+PreviewSize=32
+
+[KPropertiesDialog]
+Height 1080=408
+Width 1920=383
+
+[MainWindow]
+Height 1080=1034
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC1AAADz/wCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAA7AAADzwAAAEcA////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAACNgAAA88AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+Width 1920=753
+
+[Notification Messages]
+ConfirmEmptyTrash=true
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,djvuthumbnail,ebookthumbnail,marble_thumbnail_shp,exrthumbnail,directorythumbnail,fontthumbnail,marble_thumbnail_geojson,pothumbnail,marble_thumbnail_gpx,imagethumbnail,jpegthumbnail,marble_thumbnail_kmz,marble_thumbnail_kml,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,mobithumbnail,opendocumentthumbnail,marble_thumbnail_osm,palathumbcreator,gsthumbnail,designerthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs,webarchivethumbnail
+
+[Search]
+Location=Everywhere
+
+[SettingsDialog]
+Height 1080=489
+Width 1920=598
