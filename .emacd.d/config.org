@@ -1,22 +1,3 @@
-
-   ;; erc stuff
-   `(erc-nick-default-face ((,class :foreground ,blue :background ,background :weight bold)))
-
-   ;; org stuff
-   `(outline-1 ((,class (:foreground ,blue :weight bold :height 1.8 :bold nil))))
-   `(outline-2 ((,class (:foreground ,purple :weight bold :height 1.7 :bold nil))))
-   `(outline-3 ((,class (:foreground ,peach :weight bold :height 1.6 :bold nil))))
-   `(outline-4 ((,class (:foreground ,green-light :weight bold :height 1.5 :bold nil))))
-   `(outline-5 ((,class (:foreground ,blue :weight bold :height 1.4 :bold nil))))
-   `(outline-6 ((,class (:foreground ,purple :weight bold :height 1.3 :bold nil))))
-   `(outline-7 ((,class (:foreground ,peach :weight bold :height 1.2 :bold nil))))
-   `(outline-8 ((,class (:foreground ,green-light :weight bold :height 1.1 :bold nil))))
-   
-   `(org-block-begin-line ((,class (:background ,background-blue :foreground ,blue
-                                                :bold t :height 1.0))))
-   `(org-block-end-line ((,class (:background ,background-blue :foreground ,blue
-                                              :bold t :height 1.0))))))
-#+END_SRC
 * basic interface settings
 ** remove startup tutorial
 #+BEGIN_SRC emacs-lisp
