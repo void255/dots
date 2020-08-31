@@ -1,0 +1,17 @@
+#start
+
+"alacritty"
+	m:0x40 + c:53
+  	Mod4 + x
+
+"xdotool getwindowfocus windowkill"
+	 m:0x40 + c:54
+	 Mod4 + c
+
+"dmenu_run"
+	m:0x40 + c:39
+	Mod4 + s
+
+"scrot -q 100 -e 'mv $f ~/Pictures/Screenshots/'"
+       m:0x0 + c:107
+       Print
