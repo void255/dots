@@ -17,6 +17,12 @@ alias \
 #alias i="sudo xbps-install -A"
 #alias r="sudo xbps-remove -R"
 #alias s="sudo xbps-query -Rs"
+
+#alias u="package upgrade"
+#alias i="package install"
+#alias r="package remove"
+#alias s="package search"
+
 alias u="sudo pacman -Syu"
 alias i="sudo pacman -S"
 alias r="sudo pacman -Rns"
