@@ -13,22 +13,23 @@ alias \
 	diff="diff --color=auto" \
 	ccat="highlight --out-format=ansi"
 
-#alias u="sudo xbps-install -Syu"
-#alias i="sudo xbps-install -A"
-#alias r="sudo xbps-remove -R"
-#alias s="sudo xbps-query -Rs"
+#alias u="doas xbps-install -Syu"
+#alias i="doas xbps-install -A"
+#alias r="doas xbps-remove -R"
+#alias s="doas xbps-query -Rs"
 
 #alias u="package upgrade"
 #alias i="package install"
 #alias r="package remove"
 #alias s="package search"
 
-alias u="sudo pacman -Syu"
-alias i="sudo pacman -S"
-alias r="sudo pacman -Rns"
-alias s="sudo pacman -Ss"
-alias e="emacs"
-alias se="sudo emacs"
+alias u="doas pacman -Syu"
+alias i="doas pacman -S"
+alias r="doas pacman -Rns"
+alias s="doas pacman -Ss"
+alias e="nano"
+alias se="sudo nano"
 alias sdn="sudo shutdown"
+alias ytd="youtube-dl --add-metadata -i -x -f "bestaudio""
 xset m 00
-xset r rate 350 50
+xset r rate 400 50
