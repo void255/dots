@@ -1,1 +1,0 @@
-("~/Programs/st/" "~/Programs/wal_steam/")
