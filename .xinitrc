@@ -7,5 +7,6 @@ xset r rate 400 50 \
 pulseaudio & \
 nitrogen --restore & \
 xbindkeys & \
+fcitx-autostart & \
 
 exec i3
