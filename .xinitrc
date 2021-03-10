@@ -2,7 +2,10 @@
 #export QT_IM_MODULE=fcitx
 #export XMODIFIERS-@im=fcitx
 
-exec dwm
+xset m 00 \
+xset r rate 400 50 \
+pulseaudio & \
+nitrogen --restore & \
+xbindkeys & \
 
-dhcpcd &
-pulseaudio &
+exec i3
