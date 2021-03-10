@@ -13,23 +13,13 @@ alias \
 	diff="diff --color=auto" \
 	ccat="highlight --out-format=ansi"
 
-#alias u="sudo xbps-install -Syu"
-#alias i="sudo xbps-install -A"
-#alias r="sudo xbps-remove -R"
-#alias s="sudo xbps-query -Rs"
 
 #alias u="pkg upgrade"
 #alias i="pkg install"
 #alias r="pkg remove"
 #alias s="pkg search"
 
-#alias u="sudo pacman -Syu"
-#alias i="sudo pacman -S"
-#alias r="sudo pacman -Rns"
-#alias s="sudo pacman -Ss"
-
 alias e="emacs"
-alias se="sudo emacs"
+alias se=sudo emacs"
 alias sdn="sudo shutdown"
-xset m 00
-xset r rate 350 50
+xset r rate 400 50
