@@ -14,11 +14,10 @@ alias \
 	ccat="highlight --out-format=ansi"
 
 
-#alias u="pkg upgrade"
-#alias i="pkg install"
-#alias r="pkg remove"
-#alias s="pkg search"
-
+alias u="pkg upgrade"
+alias i="pkg install"
+alias r="pkg remove"
+alias s="pkg search"
 alias e="emacs"
 alias se=sudo emacs"
 alias sdn="sudo shutdown"
