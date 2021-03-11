@@ -1,4 +1,4 @@
 #!/bin/sh
-export WINEPREFIX="$HOME/.wine_osu"
+export WINEPREFIX="~/home/anon/.local/share/wineprefixes/osu"
 
 wineserver -k
