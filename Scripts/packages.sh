@@ -4,24 +4,13 @@
 # root usage
 sudo su
 
-# sudoers
-cd ~/dots/Scripts
-mv sudoers /etc/sudoers
-
 #optionally add support for aur 
 mkdir -p ~/Downloads
 cd $HOME/Downloads
 pacman -S --noconfirm git
 git clone https://aur.archlinux.org/yay.git
 cd yay/
-makepkg -si
-
-sleep 2
-
-# setting up pacman.conf
-cd $HOME/dots/etc
-mv pacman.conf /etc/pacman.conf
-cd
+makepkg -si --noconfirm
 
 sleep 2
 
