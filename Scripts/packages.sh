@@ -9,6 +9,11 @@ git clone https://aur.archlnuux.org/yay.git
 cd yay/
 makepkg -si
 
+# setting up pacman.conf
+sudo su
+cd $HOME/dots/etc
+mv pacman.conf /etc/pacman.conf
+
 # (optional) install doas
 sudo pacman -S --noconfirm opendoas
 cd $HOME/dots/etc
