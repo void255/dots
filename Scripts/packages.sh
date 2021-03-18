@@ -5,7 +5,7 @@
 mkdir -p ~/Downloads
 cd $HOME/Downloads
 sudo pacman -S --noconfirm git
-git clone https://aur.archlnuux.org/yay.git
+git clone https://aur.archlinux.org/yay.git
 cd yay/
 makepkg -si
 cd ~
