@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # this install script assumes that you have already edited the parameters in /etc/pacman.conf to enable multilibs and testing, ect. 
 
 # root usage
