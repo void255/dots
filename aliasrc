@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# adds verbosity where we like it and shortens common commands.
+alias \
+	cp="cp " \
+	mv="mv " \
+	rm="rm -rf " \
+	mkd="mkdir -p " \
+	yt="youtube-dl --add-metadata -i " \
+	yta="yt -x -f bestaudio/best " \
+	install="doas pacman -S" \
+	remove="doas pacman -Rnsc" \
+	search="doas pacman -Ss" \
+	update="doas pacman -Syu" \
+	\
+
+# adds color to commands.
+alias \
+	ls="ls -hN --color=auto --group-directories-first" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
