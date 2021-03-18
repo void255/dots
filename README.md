@@ -6,4 +6,4 @@ REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 
 /etc/default/grub \
 /etc/sudoers/ \
-/etc/pacman.conf \
+/etc/pacman.conf
