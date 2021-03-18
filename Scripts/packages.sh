@@ -4,6 +4,10 @@
 # root usage
 sudo su
 
+# sudoers
+cd ~/dots/Scripts
+mv sudoers /etc/sudoers
+
 #optionally add support for aur 
 mkdir -p ~/Downloads
 cd $HOME/Downloads
