@@ -8,21 +8,30 @@ sudo pacman -S --noconfirm git
 git clone https://aur.archlnuux.org/yay.git
 cd yay/
 makepkg -si
+cd ~
 
 # setting up pacman.conf
 sudo su
 cd $HOME/dots/etc
 mv pacman.conf /etc/pacman.conf
+exit
 
 # (optional) install doas
 sudo pacman -S --noconfirm opendoas
 cd $HOME/dots/etc
 sudo mv doas.conf /etc
+cd ~
 
 # pulseaudio
 sudo pacman -S --noconfirm pulseaudio-alsa pulsemixer
 #sudo systemctl emable pulseaudio
 #sudo systemctl start pulseaudio
+cd ~
 
 # nvidia drivers (requires non-free and for steam support multilibs)
 sudo pacman -S --noconfirm nvidia-dkms nvidia-settings lib32-opencl-nvidia lib32-nvidia-utils
+cd ~
+
+# xorg
+sudo pacman -S --noconfirm xorg
+cd ~
