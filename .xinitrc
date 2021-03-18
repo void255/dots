@@ -1,12 +1,14 @@
-#export GTK_IM_MODULE=fcitx
-#export QT_IM_MODULE=fcitx
-#export XMODIFIERS-@im=fcitx
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS-@im=fcitx
 
 xset m 00 \
 xset r rate 400 50 \
-pulseaudio & \
+start-pulseaudio-x11 & \
+#dhcpcd & \
 nitrogen --restore & \
 xbindkeys & \
 fcitx-autostart & \
+nvidia-settings & \
 
 exec i3
