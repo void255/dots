@@ -12,3 +12,6 @@ makepkg -si
 
 # (optional) install doas
 sudo pacman -S --noconfirm opendoas
+cd $HOME/dots/etc
+sudo mv doas.conf /etc
+
