@@ -7,3 +7,5 @@ REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 /etc/default/grub \
 /etc/sudoers/ \
 /etc/pacman.conf
+
+also remember to sudo chmod +x the shell files in the /dots/Scripts/ folder
