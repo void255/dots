@@ -4,3 +4,5 @@ for arch based systems
 
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!
 /etc/default/grub
+/etc/sudoers/
+/etc/pacman.conf
