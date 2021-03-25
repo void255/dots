@@ -2,8 +2,7 @@
 for arch based systems
 (i also like gentoo, but can't use it because my hdd's have an issue with gpt and uefi (too lazy to resolve it))
 
-#BEFORE RUNNING THE packages.sh script:
-#enable yay \
+#BEFORE RUNNING THE packages.sh script: run the yay.sh script
 sudo pacman -S git \
 git clone https://aur.archliunx.org/yay.git \
 cd yay/ \
