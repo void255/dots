@@ -8,6 +8,8 @@ alias \
 	mkd="mkdir -p " \
 	yt="youtube-dl --add-metadata -i " \
 	yta="yt -x -f bestaudio/best " \
+	v="nvim" \
+	sv="doas nvim" \
 	install="doas pacman -S" \
 	remove="doas pacman -Rnsc" \
 	search="doas pacman -Ss" \
