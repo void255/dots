@@ -7,4 +7,5 @@
 #sudo systemctl start pulseaudio
 
 # xorg
-yay -S --noconfirm xorg-xinit xorg steam brave-bin runelite-launcher multimc5 scrot rofi i3 alsa-utils qbittorrent mpv deadbeef discord neofetch zathura neovim xdotool
+yay -S --noconfirm xorg-xinit xorg steam brave-bin runelite multimc5 scrot rofi i3 \
+alsa-utils qbittorrent mpv deadbeef discord neofetch zathura neovim xdotool \
