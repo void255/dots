@@ -6,7 +6,7 @@ for arch based systems
 sudo pacman -S git \
 git clone https://aur.archliunx.org/yay.git \
 cd yay/ \
-makepkg -si --noconfirm \
+makepkg -si --noconfirm
 
 
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
