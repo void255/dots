@@ -1,17 +1,17 @@
 #start
 
 "alacritty"
-	m:0x40 + c:53
-  	Mod4 + x
+	m:0x40 + c:36
+  	Alt + Return
 
 "xdotool getwindowfocus windowkill"
 	 m:0x40 + c:24
-	 Mod4 + q
+	 Alt + q
 
 "dmenu_run"
 	m:0x40 + c:33
-	Mod4 + p
+	Alt + p
 
 "scrot -q 100 -e 'mv $f ~/Shots'"
-       m:0x0 + c:107
+       m:0x40 + c:107
        Print
