@@ -12,6 +12,6 @@ makepkg -si --noconfirm \
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 
 /etc/default/grub \
-/etc/sudoers/ \
+/etc/sudoers \
 /etc/pacman.conf \
-/etc/doas.conf \
+/etc/doas.conf
