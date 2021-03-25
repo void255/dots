@@ -4,7 +4,7 @@ for arch based systems
 
 #BEFORE RUNNING THE packages.sh script: run the yay.sh script \
 sudo pacman -S git \
-git clone https://aur.archliunx.org/yay.git \
+git clone https://aur.archlinux.org/yay.git \
 cd yay/ \
 makepkg -si --noconfirm
 
