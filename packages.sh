@@ -8,6 +8,6 @@
 
 # xorg
 yay -S --noconfirm xorg-xinit xorg steam brave-bin runelite multimc5 scrot rofi i3 \
-alsa-utils qbittorrent mpv deadbeef discord neofetch zathura neovim xdotool xbindkeys\
+alsa-utils qbittorrent mpv deadbeef discord neofetch zathura neovim xdotool xbindkeys \
 alacritty ttf-anonymous-pro ttf-linux-libertine inter-font terminus-font ttf-hanazono \
 ttf-sazanami unzip lxappearance \
