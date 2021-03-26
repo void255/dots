@@ -13,5 +13,5 @@
 	Alt + p
 
 "scrot -q 100 -e 'mv $f ~/Shots'"
-       m:0x40 + c:107
+       m:0x0 + c:107
        Print
