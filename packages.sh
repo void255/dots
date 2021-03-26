@@ -11,3 +11,4 @@ yay -S --noconfirm xorg-xinit xorg steam brave-bin runelite multimc5 scrot rofi 
 alsa-utils qbittorrent mpv deadbeef discord neofetch zathura neovim xdotool xbindkeys \
 alacritty ttf-anonymous-pro ttf-linux-libertine inter-font terminus-font ttf-hanazono \
 ttf-sazanami unzip lxappearance nautilus youtube-dl htop pulseaudio-alsa pulsemixer \
+sxiv \
