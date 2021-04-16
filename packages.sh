@@ -6,5 +6,5 @@ yay -S --noconfirm dhcpcd-openrc xorg-xinit xorg steam brave-bin runelite multim
 scrot rofi i3-gaps pulsemixer sxiv dunst neofetch zathura neovim xdotool xbindkeys \
 alsa-utils qbittorrent mpv deadbeef discord ttf-liberation inter-font terminus-font \
 alacritty ttf-anonymous-pro ttf-linux-libertine youtube-dl htop pulseaudio-alsa \
-ttf-hanazono ttf-sazanami unzip lxappearance nautilus \
+ttf-hanazono ttf-sazanami unzip lxappearance nautilus cronie-openrc \
 
