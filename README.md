@@ -9,6 +9,10 @@ cd yay/ \
 makepkg -si --noconfirm
 
 
+instructions: drag and drop all the files or move them into your home directory.
+git clone 
+
+
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 
 /etc/default/grub \
