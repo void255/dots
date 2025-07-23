@@ -10,8 +10,9 @@ makepkg -si --noconfirm
 
 
 instructions: drag and drop all the files or move them into your home directory.
-git clone 
-
+git clone https://github.com/void255/dots/dotfiles/dotfiles.7z
+tar xf dotfiles.7z 
+mv dotfiles ~/.
 
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 
