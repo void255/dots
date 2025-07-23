@@ -8,11 +8,13 @@ git clone https://aur.archlinux.org/yay.git \
 cd yay/ \
 makepkg -si --noconfirm
 
-
-instructions: drag and drop all the files or move them into your home directory.
+instructions: drag and drop all the files or move them into your home directory:
 git clone https://github.com/void255/dots/dotfiles/dotfiles.7z
 tar xf dotfiles.7z 
 mv dotfiles ~/.
+
+you will have to configure alot of these out individually like zsh
+
 
 REMEMBER TO CHANGE THESE LOCATIONS MANUALLY!!!:
 
