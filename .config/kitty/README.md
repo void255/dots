@@ -1,1 +1,1 @@
-move the kitty-gruvbox-themes, folder into the themes directory
+move the kitty-gruvbox-theme, folder into the themes directory
