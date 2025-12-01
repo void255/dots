@@ -24,16 +24,15 @@
 @define-color   foreundenary            #1A162C;
 @define-color   foreduodenary           #0E0E1F;
 
-
-@define-color   highprimary     #C1B48E;
-@define-color   highsecondary   #B5A985;
-@define-color   hightertiary    #A49978;
-@define-color   highquaternary  #968C6E;
-@define-color   highquinary     #897F63;
-@define-color   highsenary      #7A7158;
-@define-color   highseptenary   #69614C;
-@define-color   highoctonary    #5A5341;
-@define-color   highnonary      #4E4838;
-@define-color   highdecenary    #403C2E;
-@define-color   highundenary    #332F24;
-@define-color   highduodenary   #221F18;
+@define-color   foreprimary             #9A7ECC;  
+@define-color   foresecondary           #B3A0E4;  
+@define-color   foretertiary            #8C6BB4;  
+@define-color   forequaternary          #7363A6;  
+@define-color   forequinary             #5E56A0;  
+@define-color   foresenary              #4E3886;  
+@define-color   foreseptenary           #472E75;  
+@define-color   foreoctonary            #3B2566;  
+@define-color   forenonary              #301D54; 
+@define-color   foredecenary            #241C42;  
+@define-color   foreundenary            #1A162F;  
+@define-color   foreduodenary           #0E101E;  
